@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Baquedano Córdova
 
-<!--
-**LBaquedanoCordova/LBaquedanoCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web en formación | Apasionado por JavaScript y la programación.
 
-Here are some ideas to get you started:
+## 📚 Actualmente aprendiendo
+- React (dando mis primeros pasos)
+- Sass para mejorar el diseño y manejo de estilos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Skills
+- **JavaScript (ES6+)**, HTML, CSS
+- **React.js** (iniciando)
+- **Sass**
+- **Git, GitHub**
+
+---
+
+🔍 **Buscando oportunidades** para aprender y colaborar en proyectos open source.
+
+📫 **Contáctame:**
+- [LinkedIn](https://www.linkedin.com/in/luis-fernando-baquedano-cordova-5728721a0/)
+- Email: `lfbcordova@gmail.com`
+
+> "El aprendizaje es un proceso continuo" 🚀
+
+![Badge de JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
