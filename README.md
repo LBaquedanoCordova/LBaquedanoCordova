@@ -17,7 +17,7 @@
 🔍 **Buscando oportunidades** para aprender y colaborar en proyectos open source.
 
 📫 **Contáctame:**
-- [LinkedIn](https://www.linkedin.com/in/luis-fernando-baquedano-cordova-5728721a0/)
+- [LinkedIn](https://www.linkedin.com/in/luisbaquedano-frontend/)
 - Email: `lfbcordova@gmail.com`
 
 > "El aprendizaje es un proceso continuo" 🚀
