@@ -93,5 +93,5 @@ Especializado en construir microservicios reactivos robustos con **Java (Spring 
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=LBaquedanoCordova&theme=react&hide_border=true" alt="Streak Stats"/>
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LBaquedanoCordova&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LBaquedanoCordova&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
